@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 -->
 I'm a student at [jkuat](https://www.jkuat.ac.ke) pursuing a computer science degree. My interest in tech is Web, JavaScript, Typescript, Python, Golang, Building microservices, DevOps and Cloud Engineering.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=reactifyStudio&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=antoCancel&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reactifyStudio&hide=css)](https://github.com/reactifyStudio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoCancel&hide=css)](https://github.com/antoCancel/github-readme-stats)
 
 ## *My passion is to participate in open source by building software products that impacts developers and users*
 As a technical writer, I have made learning basically become my full-time job. Follow me if you wanna learn with me. 
